@@ -1,4 +1,4 @@
-# Flomentum Solutions, LLC
+# Matt May | Flomentum Solutions, LLC
 ### Technology in Motion, Business in Balance.
 
 I am a technologist, Senior Product Manager, and the founder of **Flomentum Solutions, LLC**. I specialize in building innovative technical solutions and providing consulting services that empower individuals and organizations to thrive. By operating at the unique intersection of digital platforms, robust network infrastructure, and strategic execution, I help eliminate friction and build technological momentum.
